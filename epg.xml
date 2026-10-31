@@ -2,11 +2,21 @@
  <display-name lang="en">DROPBEATERZ 4K</display-name>
  <url>https://bit.ly/dropbeaterz-iptv</url>
 </channel>
+<channel id="DROPBEATERZ.PREVIEWS">
+ <display-name lang="en">DROPBEATERZ PREVIEW</display-name>
+ <url>https://bit.ly/dropbeaterz-iptv</url>
+</channel>
 
 <programme start="20260101000000 +0000" stop="21000101000000 +0000" channel="DROPBEATERZ">
   <title lang="en">Welcome To Dropbeaterz IPTV</title>
   <desc lang="en">This is our official playlist! If you get this playlist using paying method, you're got scammed by the dealer. / Ini adalah playlist rasmi kami! Jika anda mendapat playlist ini secara bayaran, anda telah ditipu oleh penjual. [INSERT ANY MESSAGES HERE/MASUKKAN SEBARANG MESEJ DI SINI]</desc>
   <icon src="https://www.dropbox.com/scl/fi/uuaqcc8fhiuelrt36u725/Quadry-1-Wallpaper.png?rlkey=20jfz2nj2pod18hnqi4evtqct&st=o6naqze9&dl=1"/>
+  <category lang="en">Official</category>
+ </programme>
+<programme start="20260101000000 +0000" stop="21000101000000 +0000" channel="DROPBEATERZ.PREVIEWS">
+  <title lang="en">Dropbeaterz says: No EPG founded on this channel.</title>
+  <desc lang="en">This channel doesn't have any EPG data. Please refer to this official channel pages.</desc>
+  <icon src="https://img.jakpost.net/c/2024/04/11/2024_04_11_149218_1712800676._large.jpg"/>
   <category lang="en">Official</category>
  </programme>
 </tv>
