@@ -1,12 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Dropbeaterz Virtual EPG">
 <channel id="DROPBEATERZ">
  <display-name lang="en">DROPBEATERZ 4K</display-name>
  <url>https://bit.ly/dropbeaterz-iptv</url>
 </channel>
-<channel id="DROPBEATERZ.PREVIEWS">
- <display-name lang="en">DROPBEATERZ PREVIEW</display-name>
- <url>https://bit.ly/dropbeaterz-iptv</url>
+ <channel id="DROPBEATERZ.PREVIEWS">
+  <display-name lang="en">DROPBEATERZ PREVIEW</display-name>
+  <url>https://bit.ly/dropbeaterz-iptv</url>
 </channel>
-
 <programme start="20260101000000 +0000" stop="21000101000000 +0000" channel="DROPBEATERZ">
   <title lang="en">Welcome To Dropbeaterz IPTV!</title>
   <desc lang="en">This is our official playlist! If you get this playlist using paying method, you're got scammed by the dealer. / Ini adalah playlist rasmi kami! Jika anda mendapat playlist ini secara bayaran, anda telah ditipu oleh penjual. [INSERT ANY MESSAGES HERE/MASUKKAN SEBARANG MESEJ DI SINI] #dropbeaterzIPTV #hidupjokowi #ANTIk-popMOVEMENT</desc>
